@@ -1,0 +1,21 @@
+Jogo FlapBird do DevSoutinho
+----------------------------
+
+05/08/2020
+
+Copiado do canal do youtube do Mario Souto - DevSoutinho
+
+Aula 01 - Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!
+--------------------------------------------------------------------
+
+MVP - Model–view–presenter -  É uma derivação do padrão de software model-view-controller (MVC), usado também para construir principalmente interfaces gráficas. Em MVP a camada Presenter assume a função de mediadora (executada pelo Controller em MVC).
+
+FPS - Frames Per Second
+
+Documentação:
+
+. getContext(): https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/getContext
+. drawImage(): https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/drawImage
+
+Tutorial sobre como pegar as medidas das imagens no GIMP:
+	https://www.youtube.com/watch?v=nmhQqyTLUzQ
