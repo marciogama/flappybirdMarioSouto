@@ -35,3 +35,7 @@ Aula 03 - Jogo com JavaScript #03: Colisão, Pulo, Web Audio API Feat. Soco do R
 
 Aula 04 - Jogo com Java Script #04: Cenário infinito e animando o passarinho com frames
 ---------------------------------------------------------------------------------------
+
+Aula 05 - Jogo com Java Script #05: Desenhando obstáculos dinamicamente e detectando Colisão
+---------------------------------------------------------------------------------------------
+
