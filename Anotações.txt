@@ -28,5 +28,10 @@ Onde aprender sobre Git/Github?
 . Loiane Groner: https://www.youtube.com/watch?v=UMhskLXJuq4
 . Fabio Akita: https://www.youtube.com/watch?v=6OokP-NE49k
 
+06/08/2020
+
 Aula 03 - Jogo com JavaScript #03: Colisão, Pulo, Web Audio API Feat. Soco do Ryu
 ---------------------------------------------------------------------------------
+
+Aula 04 - Jogo com Java Script #04: Cenário infinito e animando o passarinho com frames
+---------------------------------------------------------------------------------------
